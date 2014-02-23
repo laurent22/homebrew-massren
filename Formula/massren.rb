@@ -1,6 +1,6 @@
 require "formula"
 
-class HomebrewMassren < Formula
+class Massren < Formula
   homepage "https://github.com/laurent22/massren"
   url "https://github.com/laurent22/massren/archive/v1.1.0.tar.gz"
   sha1 "a875caad59ee4aa55437eb55bc1bf35d703db9fd"
