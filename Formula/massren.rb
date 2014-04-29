@@ -4,6 +4,7 @@ class Massren < Formula
   homepage "https://github.com/laurent22/massren"
   url "https://github.com/laurent22/massren/archive/v1.2.1b.tar.gz"
   sha1 "8b5939841014c79be51b8e6be40f7f14e94895fa"
+  version "1.2.1b"
   
   depends_on 'go' => :build
 
