@@ -2,8 +2,8 @@ require "formula"
 
 class Massren < Formula
   homepage "https://github.com/laurent22/massren"
-  url "https://github.com/laurent22/massren/archive/v1.2.1.tar.gz"
-  sha1 "585f9650a99026c883b7f620300a570e592d380e"
+  url "https://github.com/laurent22/massren/archive/v1.2.1b.tar.gz"
+  sha1 "8b5939841014c79be51b8e6be40f7f14e94895fa"
   
   depends_on 'go' => :build
 
