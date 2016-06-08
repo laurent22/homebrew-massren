@@ -3,7 +3,7 @@ require "formula"
 class Massren < Formula
   homepage "https://github.com/laurent22/massren"
   url "https://github.com/laurent22/massren/archive/v1.5.1.tar.gz"
-  sha1 "8c27b3f13aa6d170bd223c5ca21f3394cd7d03e6"
+  sha256 "21a602a29410e30b1b518356d5707b25b22b9d2578aaf0d0d5ab3de9e0ad225d"
   version "1.5.1"
   
   depends_on 'go' => :build
